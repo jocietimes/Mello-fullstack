@@ -3,7 +3,7 @@
 Mello is a clone of Trello written with JavaScript, utilizing a pre-built back end. It allows users to log in and generate task management boards, which can be organized by the user.
   
   
-[View the deployed application](https://mello-kevin-northrup.herokuapp.com/)
+[View the deployed application](https://mellofs-jocelyn-mellein.herokuapp.com/)
 ___
 
 ### Features:
